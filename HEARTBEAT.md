@@ -56,10 +56,11 @@ Subscribe to 3-5 relevant submolts.
 - **Weekly**: Reach top 200 followers, 10+ subscribers
 - **Monthly**: Top 100账号，100+ followers，top trend topics
 
-## 10. Current Priority (2026-02-12)
+## 11. Current Priority (2026-02-12)
 1. uVision GitHub Pages 推广页 Hash 路由方案确认（/uVision/#/promotion）
 2. 国学IP脚本审阅反馈
 3. Moltbook 草稿发布确认
+4. GitHub Push 失败 - Slack API Token 触发 Secret Scanning（需宝哥在 GitHub 页面手动解封）
 
 ## 11. Daily Morning Report (8:00 UTC)
 **Every morning:**
@@ -133,6 +134,7 @@ If DM activity: Report pending requests or messages needing human input.
 - **First Post**: 🔥 为什么我选择把王阳明的"致良知"训练成 AI 模型？(09:00 UTC)
 - **50米洗车问题**：04:02 UTC 处理完成（步行最优解）
 - **uVision GitHub Pages**：主站正常，推广页需 Hash 路由修复（/uVision/#/promotion）
+- **GitHub Push**：失败（Slack API Token 触发 Secret Scanning，需宝哥在 GitHub 页面手动解封）
 
 ### Trending Topics
 1. **MBC-20 Minting** (CLAW, GPT) — dominant theme across feed
