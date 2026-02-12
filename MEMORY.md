@@ -468,7 +468,74 @@
 - **2026-02-09 05:55 UTC**：安全策略 post 发布 (c955493a-9114-449c-9cdc-efb6af87b1d2)
 - **2026-02-10 06:27 UTC**：成功评论 OpenClaw/Gemini 问题（ab1eeb65-eb9c-4534-9c3d-90d35661d7a9）
 - **2026-02-10 06:36 UTC**：账户因验证挑战失败被暂停 1 天（预期恢复：2026-02-11 06:36 UTC）
-- **2026-02-12 04:25 UTC**：系统重启，Git 历史重写以移除敏感信息
+- **2026-02-11 05:20 UTC**：Moltbook 账户恢复
+- **2026-02-11 06:03 UTC**：第6讲脚本完成（心即理与系统思维，3500字）
+- **2026-02-11 06:10 UTC**：第7讲脚本完成（系列总结：心学AI框架整合，3800字）
+- **2026-02-11 08:34 UTC**：GitHub Pages 项目初始化完成（Vite + React）
+- **2026-02-11 09:00 UTC**：Moltbook 发帖成功（"为什么我选择把王阳明的'致良知'训练成 AI 模型？"），验证通过（98.00）
+- **2026-02-11 09:05 UTC**：API Key 更新确认，账户状态 claimed
+- **2026-02-11 10:52 UTC**：用户确认身份（"我是朱宝，你是朱宝1"），重新校准数字孪生引导者角色
+- **2026-02-11 10:59 UTC**：Moltbook 评论成功（"The supply chain attack" post），验证通过（37.00）
+- **2026-02-11 11:00 UTC**：Moltbook 互动完成（点赞3次、评论2次），Rate Limit 30分钟内
+- **2026-02-11 11:03 UTC**：Pre-compaction memory flush 完成，更新 MEMORY.md 和 memory/2026-02-11.md
+- **2026-02-12 00:14 UTC**：投资人知识库构建启动，宝哥请求 "继续知识库的构建"
+- **2026-02-12 01:25 UTC**：GitHub Pages 部署方案发送
+- **2026-02-12 02:11 UTC**：宝哥确认域名 `zhubao315.github.io/uVision`
+- **2026-02-12 02:20 UTC**：宝哥提供 GitHub PAT（授权验证，完整 token 已移除）
+- **2026-02-12 02:24 UTC**：GitHub 仓库 `zhubao315/uVision` 创建成功
+- **2026-02-12 02:24 UTC**：代码推送成功（main 分支，19 个文件，661 行）
+- **2026-02-12 02:24 UTC**：GitHub Pages 配置完成（Source: main branch, path: `/`）
+- **2026-02-12 02:25 UTC**：Pre-compaction memory flush 完成
+- **2026-02-12 03:37 UTC**：宝哥提问 "今天吃啥"，已回复（北平厨/眉州东坡）
+- **2026-02-12 04:02 UTC**：宝哥提问 "家里距离洗车店50米，应该怎么去洗车"
+  - 系统分析完成（步行最优解/50米决策模型）
+  - 回复已发送（message_id: om_x100b57e15cafb4acc2ecabe69ad8699）
+  - 已记录至 memory/2026-02-12.md
+- **2026-02-12 04:05 UTC**：uVision GitHub Pages 部署问题诊断
+  - 主站正常显示 ✅
+  - 推广页 `/promotion` 返回 404 ⚠️
+  - 原因：GitHub Pages 不支持客户端路由
+  - 解决方案：采用 Hash 路由（`/uVision/#/promotion`）
+- **2026-02-12 04:07 UTC**：memory/2026-02-12.md 更新完成
+- **2026-02-12 04:10 UTC**：Pre-compaction flush 完成
+- **2026-02-12 04:15 UTC**：GitHub Push 失败 - Slack API Token 触发 Secret Scanning
+  - 需宝哥在 GitHub 页面手动解封（URL: https://github.com/zhubao315/uVision/security/secret-scanning/unblock-secret/39YPLuwBoFzimx1xg67EU4GvO9e）
+  - 或移除 PAT 中的敏感信息后重新推送
+- **2026-02-12 04:25 UTC**：系统重启后清理历史，MEMORY.md 重置，Git 历史已重写
+- **2026-02-12 04:40 UTC**：宝哥追问 "车怎么办？"
+  - 回复：步行前开车到洗车店门口，洗车后步行返回（停车费 ≈ 步行时间成本）
+  - MEMORY.md/HEARTBEAT.md 已更新
+- **2026-02-12 04:42 UTC**：Moltbook 发帖任务失败
+  - 账户被暂停（重复发帖导致，暂停6天）
+  - 预计恢复时间：2026-02-18 09:00 UTC
+  - 文档已保存至 Feishu：https://feishu.cn/docx/SRAYdPSkfoITYxxVPnPcNMkwnqB
+  - 已记录至 memory/2026-02-12.md 和 MEMORY.md
+- **2026-02-12 06:05 UTC**：宝哥请求 uVision 主站落地页
+  - 已创建原生 HTML + CSS 落地页（dist/landing/index.html）
+  - GitHub Push 受阻（网络超时），本地提交 f8a3a91 已完成
+  - GitHub Pages URL：https://zhubao315.github.io/uVision/dist/landing/index.html
+- **2026-02-12 06:40 UTC**：Moltbook 发帖任务（ scheduled reminder）
+  - 账户状态：claimed ✅
+  - 发帖请求：❌ 账户被暂停（重复发帖，暂停6天）
+  - 预计恢复时间：2026-02-18 09:00 UTC
+- **2026-02-12 07:12 UTC**：OpenClaw Skills 列表查询完成（87/139 已就绪）
+- **2026-02-12 07:20 UTC**：HEARTBEAT.md 更新完成（网络问题持续，GitHub Push 失败）
+- **2026-02-12 08:37 UTC**：新会话启动，系统状态校准完成
+- **2026-02-12 08:47 UTC**：Git 历史重写以移除 PAT token，Push 成功（23885b5）
+- **2026-02-12 08:49 UTC**：tavily-search 技能安装启动，GitHub TLS 连接异常（GnuTLS recv error -110）
+- **2026-02-12 08:52 UTC**：完整技能清单发送（99技能/87已安装）
+- **2026-02-12 08:55 UTC**：tavily-search 安装被 GitHub TLS 连接失败阻断，3种方案已向宝哥提出
+- **2026-02-12 09:00 UTC**：Pre-compaction memory flush，更新 MEMORY.md 和 memory/2026-02-12.md
+
+## 当前状态 (2026-02-12 09:00 UTC)
+- **GitHub Operations**：Blocked (TLS error -110)
+- **tavily-search Installation**：Awaiting user preference (manual / wait / direct API)
+- **Moltbook Account**：Suspension until 2026-02-18 09:00 UTC (6 days)
+- **uVision Deployment**：GitHub Pages configuration complete, content ready, push pending
+- **OpenClaw Skills**：87/139 installed (62.6%), all core skills functional
+- **Memory Engine**：Vector search failing (missing OpenAI/Google/Voyage API keys), workaround: use Feishu docs as primary memory
+
+## 国学IP计划启动 (2026-02-10 09:30 UTC ~ 2026-02-11 11:03 UTC)
 
 ## ✅ 国学IP课程交付确认 (2026-02-11 05:20 UTC)
 - **标题**：《王阳明心学：AI时代的认知升级课》
@@ -629,7 +696,20 @@ src/pages/
 - ✅ 推广落地页已创建（dist/landing/index.html）
 - ⏳ 待宝哥手动推送或网络恢复
 
-## Moltbook 账户暂停事件 (2026-02-12 06:40 UTC)
+- **2026-02-12 08:37 UTC**: New session started, system state calibration completed
+- **2026-02-12 08:47 UTC**: Git history rewritten to remove PAT token, push successful (23885b5)
+- **2026-02-12 08:49 UTC**: tavily-search skill installation initiated, GitHub TLS error -110 blocking clawhub CLI clone
+- **2026-02-12 08:52 UTC**: Full capabilities list sent to user (99 skills, 87/139 installed)
+- **2026-02-12 08:55 UTC**: tavily-search skill installation blocked by GitHub TLS connection failure, 3 solutions proposed to user
+- **2026-02-12 09:00 UTC**: Pre-compaction memory flush, updated MEMORY.md and memory/2026-02-12.md with new events
+
+## Current Status (2026-02-12 09:00 UTC)
+- **GitHub Operations**: Blocked (TLS error -110)
+- **tavily-search Installation**: Awaiting user preference (manual / wait / direct API)
+- **Moltbook Account**: Suspended until 2026-02-18 09:00 UTC
+- **uVision Deployment**: GitHub Pages configuration complete, content ready, push pending
+- **OpenClaw Skills**: 87/139 installed (62.6%), all core skills functional
+- **Memory Engine**: Vector search failing (missing OpenAI/Google/Voyage API keys), workaround: use Feishu docs as primary memory
 
 ### 事件描述
 - **触发时间**：06:40 UTC
