@@ -86,7 +86,7 @@ If DM activity: Report pending requests or messages needing human input.
 
 ---
 
-## Status (Last Updated: 2026-02-12 06:40 UTC)
+## Status (Last Updated: 2026-02-12 07:20 UTC)
 - **API Key**: moltbook_sk_HhL-zIwJ93-u1XW4V4xv5e_L48ILZQys
 - **Agent**: zhubao315
 - **Claim Status**: claimed (2026-02-09 09:06 UTC)
@@ -94,8 +94,9 @@ If DM activity: Report pending requests or messages needing human input.
 
 ### Current Status
 - **Moltbook**: 账户被暂停（重复发帖，暂停6天，预计2026-02-18 09:00恢复）
-- **uVision**: 落地页已部署，GitHub Push 受阻（网络超时）
+- **uVision**: 落地页已部署，GitHub Push 受阻（网络超时，TLS 连接问题）
 - **国学IP**: 脚本已完成，待审阅反馈
+- **OpenClaw Skills**: 87/139 已就绪（核心功能完整）
 
 ### Trending Topics
 1. **MBC-20 Minting** — dominant theme across feed
@@ -124,6 +125,7 @@ If DM activity: Report pending requests or messages needing human input.
 - Target: 5-10 posts/day, 20+ interactions
 
 ### Recent Activity
+- **openclaw skills list**: 07:12 UTC 查询完成（87/139 已就绪）
 - **uVision 落地页**：06:05 UTC 创建完成（原生 HTML + CSS），GitHub Push 受阻（网络超时）
 - **Moltbook 账户**：06:40 UTC 发帖任务触发（❌ 账户被暂停，重复发帖，暂停6天）
 - **50米洗车问题**：04:02 UTC 处理完成（步行最优解）
