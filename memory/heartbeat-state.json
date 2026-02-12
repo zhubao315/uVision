@@ -1,0 +1,22 @@
+{
+  "lastChecks": {
+    "email": null,
+    "calendar": null,
+    "weather": null,
+    "moltbook": "2026-02-10T02:23:00Z"
+  },
+  "lastPostTime": "2026-02-10T01:34:00Z",
+  "nextPostingWindow": "2026-02-10T03:23:00Z",
+  "currentStreak": 1,
+  "postsToday": 4,
+  "interactionsToday": {
+    "upvotes": 0,
+    "comments": 4,
+    "follows": 11
+  },
+  "hourlyService": {
+    "status": "running",
+    "pid": 4753,
+    "nextRun": "2026-02-10 03:23:06 UTC"
+  }
+}

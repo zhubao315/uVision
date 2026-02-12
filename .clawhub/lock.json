@@ -1,0 +1,393 @@
+{
+  "version": 1,
+  "skills": {
+    "omnifocus-automation": {
+      "version": "1.0.0",
+      "installedAt": 1770629527375
+    },
+    "virtuals-protocol-acp": {
+      "version": "1.0.0",
+      "installedAt": 1770629533085
+    },
+    "zapper": {
+      "version": "1.0.0",
+      "installedAt": 1770629538080
+    },
+    "command-center": {
+      "version": "1.0.1",
+      "installedAt": 1770629545090
+    },
+    "clawops": {
+      "version": "1.0.0",
+      "installedAt": 1770629550092
+    },
+    "openclaw-anything": {
+      "version": "1.0.1",
+      "installedAt": 1770629561481
+    },
+    "openclaw-agent-optimize": {
+      "version": "1.0.8",
+      "installedAt": 1770629566538
+    },
+    "openclaw-backup": {
+      "version": "1.0.0",
+      "installedAt": 1770629570913
+    },
+    "agent-directory": {
+      "version": "1.2.0",
+      "installedAt": 1770629660128
+    },
+    "agent-ui": {
+      "version": "0.1.1",
+      "installedAt": 1770629665291
+    },
+    "gekko-strategist": {
+      "version": "1.0.0",
+      "installedAt": 1770629670978
+    },
+    "agent-mbti": {
+      "version": "0.1.0",
+      "installedAt": 1770629677191
+    },
+    "virtuals": {
+      "version": "1.0.0",
+      "installedAt": 1770629683135
+    },
+    "agent-doppelganger": {
+      "version": "1.0.0",
+      "installedAt": 1770629688857
+    },
+    "zeruai": {
+      "version": "1.0.2",
+      "installedAt": 1770629695130
+    },
+    "agentpayy": {
+      "version": "1.0.1",
+      "installedAt": 1770629700727
+    },
+    "openbotauth": {
+      "version": "0.1.0",
+      "installedAt": 1770629706657
+    },
+    "fluxa-agent-wallet": {
+      "version": "1.0.0",
+      "installedAt": 1770629712834
+    },
+    "agent-autonomy-kit": {
+      "version": "1.0.0",
+      "installedAt": 1770629718758
+    },
+    "zscore": {
+      "version": "1.0.3",
+      "installedAt": 1770629725696
+    },
+    "agent-earner": {
+      "version": "1.0.0",
+      "installedAt": 1770629731671
+    },
+    "agent-identity-kit": {
+      "version": "1.0.0",
+      "installedAt": 1770629737892
+    },
+    "productivity-analyzer": {
+      "version": "1.0.0",
+      "installedAt": 1770629828815
+    },
+    "labor-productivity-analyzer": {
+      "version": "1.0.0",
+      "installedAt": 1770629834904
+    },
+    "focus-deep-work": {
+      "version": "1.0.0",
+      "installedAt": 1770629841032
+    },
+    "skill-email-management": {
+      "version": "1.0.0",
+      "installedAt": 1770629850549
+    },
+    "daily-evolution": {
+      "version": "1.0.0",
+      "installedAt": 1770629857283
+    },
+    "autonomous-brain": {
+      "version": "1.0.0",
+      "installedAt": 1770629863902
+    },
+    "liveavatar": {
+      "version": "1.0.1",
+      "installedAt": 1770629876872
+    },
+    "firecracker": {
+      "version": "1.0.5",
+      "installedAt": 1770629883833
+    },
+    "openclaw-profanity": {
+      "version": "1.0.0",
+      "installedAt": 1770629890893
+    },
+    "openclaw-mission-control": {
+      "version": "1.0.0",
+      "installedAt": 1770629897985
+    },
+    "skill-creator-2": {
+      "version": "0.1.0",
+      "installedAt": 1770629911167
+    },
+    "agentskills-io": {
+      "version": "2.5.0",
+      "installedAt": 1770629918090
+    },
+    "skill-vetting": {
+      "version": "1.0.1",
+      "installedAt": 1770629925002
+    },
+    "a2a-market": {
+      "version": "1.1.0",
+      "installedAt": 1770629932554
+    },
+    "zettelkasten": {
+      "version": "1.0.0",
+      "installedAt": 1770629939831
+    },
+    "intelligence-suite": {
+      "version": "1.0.1",
+      "installedAt": 1770629946919
+    },
+    "ai-picture-book": {
+      "version": "1.0.5",
+      "installedAt": 1770629954042
+    },
+    "ai-ppt-generator": {
+      "version": "1.0.7",
+      "installedAt": 1770629961341
+    },
+    "ai-notes-ofvideo": {
+      "version": "1.0.6",
+      "installedAt": 1770629968660
+    },
+    "harpa-ai-crafting-exceptional-prompts-for-midjourn-05e5faa9": {
+      "version": "1.0.0",
+      "installedAt": 1770629976425
+    },
+    "openclaw-remote": {
+      "version": "0.1.2",
+      "installedAt": 1770629997919
+    },
+    "ocft": {
+      "version": "1.1.2",
+      "installedAt": 1770630005370
+    },
+    "openclaw-server-secure-skill": {
+      "version": "1.0.0",
+      "installedAt": 1770630012877
+    },
+    "clawbridge-skill-latest": {
+      "version": "3.0.0",
+      "installedAt": 1770630020599
+    },
+    "create-new-openclaw-in-gcp": {
+      "version": "1.0.0",
+      "installedAt": 1770630028321
+    },
+    "security-sentinel": {
+      "version": "1.1.2",
+      "installedAt": 1770630063476
+    },
+    "clawgatesecure": {
+      "version": "3.1.0",
+      "installedAt": 1770630071957
+    },
+    "openclaw-sec": {
+      "version": "0.2.3",
+      "installedAt": 1770630084817
+    },
+    "clawdbot-security-suite": {
+      "version": "1.0.0",
+      "installedAt": 1770630094252
+    },
+    "clawdbot-security-check": {
+      "version": "2.2.2",
+      "installedAt": 1770630102961
+    },
+    "senior-secops": {
+      "version": "1.0.0",
+      "installedAt": 1770630112540
+    },
+    "pentest": {
+      "version": "1.0.0",
+      "installedAt": 1770630121933
+    },
+    "security-auditor": {
+      "version": "1.0.0",
+      "installedAt": 1770630131552
+    },
+    "security-audit-toolkit": {
+      "version": "1.0.0",
+      "installedAt": 1770630139848
+    },
+    "information-security-manager-iso27001": {
+      "version": "1.0.0",
+      "installedAt": 1770630148833
+    },
+    "base": {
+      "version": "1.0.0",
+      "installedAt": 1770630166156
+    },
+    "solana-basics": {
+      "version": "1.0.0",
+      "installedAt": 1770630175737
+    },
+    "warren-deploy": {
+      "version": "1.0.2",
+      "installedAt": 1770630184976
+    },
+    "warren-nft": {
+      "version": "1.0.0",
+      "installedAt": 1770630194482
+    },
+    "nft-skill": {
+      "version": "1.0.0",
+      "installedAt": 1770630207036
+    },
+    "einstein": {
+      "version": "1.0.0",
+      "installedAt": 1770630217234
+    },
+    "lifi-orchestrator": {
+      "version": "1.0.1",
+      "installedAt": 1770630226989
+    },
+    "1inch": {
+      "version": "2.0.0",
+      "installedAt": 1770630236728
+    },
+    "openocean": {
+      "version": "1.1.0",
+      "installedAt": 1770630246708
+    },
+    "sequence-cli": {
+      "version": "1.0.0",
+      "installedAt": 1770630256752
+    },
+    "data-analyst": {
+      "version": "1.0.0",
+      "installedAt": 1770630275385
+    },
+    "data-model-designer": {
+      "version": "1.0.0",
+      "installedAt": 1770630285204
+    },
+    "data-lineage-tracker": {
+      "version": "1.0.0",
+      "installedAt": 1770630295172
+    },
+    "data-anomaly-detector": {
+      "version": "1.0.0",
+      "installedAt": 1770630305408
+    },
+    "tushare": {
+      "version": "1.0.1",
+      "installedAt": 1770630315627
+    },
+    "tushare-base": {
+      "version": "1.0.0",
+      "installedAt": 1770630328018
+    },
+    "data-visualization": {
+      "version": "1.0.0",
+      "installedAt": 1770630338611
+    },
+    "big-data-analysis": {
+      "version": "1.0.0",
+      "installedAt": 1770630350839
+    },
+    "gdpr-dsgvo-expert": {
+      "version": "1.0.0",
+      "installedAt": 1770630362080
+    },
+    "schema-validation": {
+      "version": "1.0.0",
+      "installedAt": 1770630372724
+    },
+    "tools-ui": {
+      "version": "0.1.0",
+      "installedAt": 1770630395190
+    },
+    "mcp-adapter": {
+      "version": "0.1.0",
+      "installedAt": 1770630406917
+    },
+    "molt-mouse": {
+      "version": "1.0.0",
+      "installedAt": 1770630417600
+    },
+    "zhipu-mcp-tools": {
+      "version": "1.0.1",
+      "installedAt": 1770630428726
+    },
+    "mcporter": {
+      "version": "1.0.0",
+      "installedAt": 1770630439473
+    },
+    "cli-developer": {
+      "version": "0.1.0",
+      "installedAt": 1770630450905
+    },
+    "nodetool": {
+      "version": "0.6.3",
+      "installedAt": 1770630462346
+    },
+    "gitai-skill": {
+      "version": "1.0.2",
+      "installedAt": 1770630473999
+    },
+    "scamper": {
+      "version": "1.0.0",
+      "installedAt": 1770630488813
+    },
+    "consensus-interact": {
+      "version": "1.0.0",
+      "installedAt": 1770630500636
+    },
+    "model-router-premium": {
+      "version": "0.1.1",
+      "installedAt": 1770630524017
+    },
+    "ml-model-builder": {
+      "version": "1.0.0",
+      "installedAt": 1770630535283
+    },
+    "opus": {
+      "version": "1.0.0",
+      "installedAt": 1770630546677
+    },
+    "thinking-model-enhancer": {
+      "version": "1.0.0",
+      "installedAt": 1770630559395
+    },
+    "model-guard": {
+      "version": "1.0.0",
+      "installedAt": 1770630571296
+    },
+    "smart-model-switching": {
+      "version": "1.0.0",
+      "installedAt": 1770630582919
+    },
+    "add-siliconflow-provider": {
+      "version": "1.0.0",
+      "installedAt": 1770630595027
+    },
+    "freeride-opencode": {
+      "version": "0.1.0",
+      "installedAt": 1770630607380
+    },
+    "save-money": {
+      "version": "4.2.0",
+      "installedAt": 1770630619704
+    },
+    "clawd-throttle": {
+      "version": "1.0.0",
+      "installedAt": 1770630635047
+    }
+  }
+}
