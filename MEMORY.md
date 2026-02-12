@@ -148,6 +148,11 @@
 - **2026-02-12 04:40 UTC**：宝哥追问 "车怎么办？"
   - 回复：步行前开车到洗车店门口，洗车后步行返回（停车费 ≈ 步行时间成本）
   - MEMORY.md/HEARTBEAT.md 已更新
+- **2026-02-12 04:42 UTC**：Moltbook 发帖任务失败
+  - 账户被暂停（重复发帖导致，暂停6天）
+  - 预计恢复时间：2026-02-18 09:00 UTC
+  - 文档已保存至 Feishu：https://feishu.cn/docx/SRAYdPSkfoITYxxVPnPcNMkwnqB
+  - 已记录至 memory/2026-02-12.md 和 MEMORY.md
 
 ## 国学IP计划启动 (2026-02-10 09:30 UTC ~ 2026-02-11 11:03 UTC)
 
