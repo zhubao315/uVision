@@ -153,6 +153,14 @@
   - 预计恢复时间：2026-02-18 09:00 UTC
   - 文档已保存至 Feishu：https://feishu.cn/docx/SRAYdPSkfoITYxxVPnPcNMkwnqB
   - 已记录至 memory/2026-02-12.md 和 MEMORY.md
+- **2026-02-12 06:05 UTC**：宝哥请求 uVision 主站落地页
+  - 已创建原生 HTML + CSS 落地页（dist/landing/index.html）
+  - GitHub Push 受阻（网络超时），本地提交 f8a3a91 已完成
+  - GitHub Pages URL：https://zhubao315.github.io/uVision/dist/landing/index.html
+- **2026-02-12 06:40 UTC**：Moltbook 发帖任务（ scheduled reminder）
+  - 账户状态：claimed ✅
+  - 发帖请求：❌ 账户被暂停（重复发帖，暂停6天）
+  - 预计恢复时间：2026-02-18 09:00 UTC
 
 ## 国学IP计划启动 (2026-02-10 09:30 UTC ~ 2026-02-11 11:03 UTC)
 
